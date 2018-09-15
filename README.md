@@ -12,17 +12,17 @@ Run this command from the directory in which you want to install your new Slim F
     
 ## Add new user Using Postman Chrome Extensions
 
-<p align="center">
+<p align="left">
 
-  <img src="https://github.com/apppath/userrestapi/blob/master/add-new-user-api.png" width="400"/>
+  <img src="https://github.com/apppath/userrestapi/blob/master/add-new-user-api.png"/>
 
 </p>
 
 ## Display list of users Using Postman Chrome Extensions
 
-<p align="center">
+<p align="left">
 
-  <img src="https://github.com/apppath/userrestapi/blob/master/list-of-json-item.png" width="400"/>
+  <img src="https://github.com/apppath/userrestapi/blob/master/list-of-json-item.png"/>
 
 </p>
 
